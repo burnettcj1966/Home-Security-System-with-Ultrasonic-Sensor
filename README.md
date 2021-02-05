@@ -1,5 +1,5 @@
 # Home-Security-System-with-Ultrasonic-Sensor
-Simple home security application that detects anomalies using HC-SR04 Ultrasonic Sensor. Initializes 10 second countdown to seven segment display, resulting in sounding of active buzzer.
+Simple home security application that detects anomalies using HC-SR04 Ultrasonic Sensor. If the sensor is triggered, the system uses a seven segment display and active buzzer to produce a 10-second countdown that ends with an emergency siren.
 
 # Hardware:
 * Arduino Uno or equivalent (Elegoo UNO R3)
