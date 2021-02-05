@@ -12,7 +12,7 @@ Simple home security application that detects anomalies using HC-SR04 Ultrasonic
 # Procedure:
 1. Ultrasonic Sensor begins calibration phase in order to detect average uniterrupted distance. The active buzzer will alert with two "beeps" once the calibration phase has been completed. 
 
-2. The Ultrasonic Sensor is now armed. Any anomaly that disturbs the sensor's current maximum range will intiate the alert process.
+2. The Ultrasonic Sensor is now armed. Any anomaly that disturbs the sensor's current maximum range will initiate the alert process.
 3. Once alert process has been triggered, the Seven Segment Display will begin a 10 second countdown.
 4. At the conclusion of the 10 second countdown, the active buzzer outputs an emergency siren.
 5. Restarting the system can be achieved by pressing code reset on the arduino. 
