@@ -15,7 +15,7 @@ Simple home security application that detects anomalies using HC-SR04 Ultrasonic
 2. The Ultrasonic Sensor is now armed. Any anomaly that disturbs the sensor's current maximum range will initiate the alert process.
 3. Once alert process has been triggered, the Seven Segment Display will begin a 10 second countdown.
 4. At the conclusion of the 10 second countdown, the active buzzer outputs an emergency siren.
-5. Restarting the system can be achieved by pressing code reset on the arduino. 
+5. Restarting the system can be achieved by pressing red code reset button on the arduino. 
 
 Circuit Layout: ![layout](https://github.com/burnettcj1966/Home-Security-System-with-Ultrasonic-Sensor/blob/main/sensorCircuit.jpg)
 
