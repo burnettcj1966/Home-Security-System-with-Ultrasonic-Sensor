@@ -10,7 +10,7 @@ Simple home security application that detects anomalies using HC-SR04 Ultrasonic
 * Jumper Wires
 
 # Procedure:
-1.Ultrasonic Sensor begins calibration phase in order to detect average uniterrupted distance. The active buzzer will alert with two "beeps" once the calibration phase has been completed.
+1.Ultrasonic Sensor begins calibration phase in order to detect average uniterrupted distance. The active buzzer will alert with two "beeps" once the calibration phase has been completed. \n
 2. The Ultrasonic Sensor is armed. Any anomaly that disturbs the sensor current maximum range will intiate the alert process.
 3. Once triggered, the Seven Segment Display will begin a 10 second countdown.
 4. At the conclusion of the 10 second countdown, the active buzzer outputs loud noise.
