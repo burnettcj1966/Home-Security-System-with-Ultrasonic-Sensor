@@ -15,6 +15,6 @@ Simple home security application that detects anomalies using HC-SR04 Ultrasonic
 4. Item At the conclusion of the 10 second countdown, the active buzzer outputs loud noise.
 5. Item Restarting the system can be achieved by pressing code reset on the arduino. 
 
-Circuit Layout: [!
+Circuit Layout: [!(https://github.com/burnettcj1966/Home-Security-System-with-Ultrasonic-Sensor/blob/main/sensorCircuit.jpg)]
 
 
