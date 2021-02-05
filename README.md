@@ -3,7 +3,7 @@ Simple home security application that detects anomalies using HC-SR04 Ultrasonic
 
 # Hardware:
 * Arduino Uno or equivalent (Elegoo UNO R3)
-* HC-SRO4 Ultrasonic Sensor
+* HC-SR04 Ultrasonic Sensor
 * Active Buzzer
 * 7 Segment Display
 * Resistor (1K Ohm)
